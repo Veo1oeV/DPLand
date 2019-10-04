@@ -5,3 +5,5 @@ Collection of Dynamic Programming Problem Solutions
 [Maximum Common Subsequence Length](MaxCommonSubSeqLen.cpp)
 
 [Stairs](Stairs.cpp)
+
+[Number of Binary Trees](NumBinTree.cpp)
