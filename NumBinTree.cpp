@@ -1,4 +1,4 @@
-int solution(int k) {                                                           
+int solution(int k) { 
   if (k <= 1)
     return 0;
 
